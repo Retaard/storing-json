@@ -1,0 +1,18 @@
+[
+    {
+        "version": "Cracked",
+        "date": "Dec 4",
+        "added": [
+            "Cracked"
+        ],
+        "changed": [
+            "Fixed: Eazy test crack",
+        ],
+        "removed": [
+            "check atom and licence"
+        ],
+        "stream": "combined",
+        "nezur_type": "Nezur Executor",
+        "id": "1"
+      }
+]
